@@ -202,6 +202,8 @@ nav ul li a {
 .plant div{
     padding-top: 70px;
     padding-bottom: 70px;
+    padding-right: 75px;
+    padding-left: 75px;
 }
 
 footer {
