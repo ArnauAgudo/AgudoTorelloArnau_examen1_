@@ -6,6 +6,7 @@ body {
 .margen{
     margin-left: auto;
     margin-right: auto;
+    max-width: 1300px;
 }
 .margen header {
     background: #f9f9f9;
@@ -101,3 +102,66 @@ nav ul li a {
     align-items: center;
 
 }
+
+.fresh {
+    padding: 20px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.fresh img {
+    height: 500px;
+    border-radius: 10px;
+}
+.fresh h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.fresh p {
+    font-size: 16px;
+    color: #555;
+}
+
+.fresh2{
+    margin-top: 50px;
+    justify-content: center;
+    margin-right: 500px;
+    margin-left: 100px;
+}
+
+
+.frasesflex div{
+    display: flex;
+    margin-top: 20px;
+}
+
+.frasesflex div img{
+    height: 50px;
+}
+
+.eat {
+    display: flex;
+    justify-content: center;
+    background-color: #e3eef1;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.eat div{
+    margin-left: 100px;
+}
+
+.fondobosque{
+    background-image: url(img/fondobosque.png);
+    
+    width: 1800px;
+    justify-content: center;
+    color: white;
+    
+}
+
